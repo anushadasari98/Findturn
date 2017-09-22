@@ -1,0 +1,13 @@
+
+
+
+
+.container > section {
+	margin: 0 auto;
+	padding: 10em 3em;
+	text-align: center;
+}
+
+.color-1 {
+	background: fa8072;
+}
